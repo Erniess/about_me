@@ -1,0 +1,24 @@
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Записная книжка
+tagline:          'Чтобы самому не забыть и другим рассказать'
+paginate:         10
+paginate_path:    "page:num"
+highlighter:      rouge
+future:           false
+show_drafts:      false
+
+url:              https://erniess.github.io/
+baseurl:          "/about_me"
+
+author:
+  name:           Alexey Tarara
+  url:            erniess.github.io
+
+# Custom vars
+version:          0.1.0
+
+github:
+  repo:           https://github.com/Erniess
