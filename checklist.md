@@ -3,10 +3,17 @@ layout: page
 title: Чеклист
 ---
 
-## Курсы 
+## Курсы
+- [x] [~~Погружение в Python. Coursera~~](https://ru.coursera.org/learn/diving-in-python)
+- [x] [~~ООП и паттерны проектирования в Python. Coursera~~](https://ru.coursera.org/learn/oop-patterns-python)
+- [x] [~~Создание Web-сервисов на Python. Coursera~~](https://ru.coursera.org/learn/python-for-web)
+
 - [ ] [Python-разработчик. Яндекс Практикум](https://praktikum.yandex.ru/backend-developer/)
+- [ ] [Мидл python-разработчик. Яндекс Практикум](https://praktikum.yandex.ru/middle-python/)
+- [ ] [Инженер по тестированию. Яндекс Практикум](https://praktikum.yandex.ru/qa-engineer/)
 - [ ] [Программист Python](https://geekbrains.ru/professions/python_developer)
-- [x] [~~Инструменты программиста~~](https://www.youtube.com/playlist?list=PLAMm2eUmBSn24JIYXGKqAEWCfN-IT-UMp)
+- [x] [~~Основы тестирования программного обеспечения. Универсариум~~](https://universarium.org/course/722)
+- [x] [~~Инструменты программиста (GIT)~~](https://www.youtube.com/playlist?list=PLAMm2eUmBSn24JIYXGKqAEWCfN-IT-UMp)
 - [x] [~~Базовый курс по Git~~](https://www.youtube.com/playlist?list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR)
 - [ ] [Django Girls Tutorial](https://tutorial.djangogirls.org/ru/)
 - [ ] [GitHab Learning lab](https://lab.github.com/courses)
@@ -25,7 +32,8 @@ title: Чеклист
 - [ ] [Экстремальное программирование](https://www.litres.ru/kent-bek/ekstremalnoe-programmirovanie-razrabotka-cherez-testirovanie/)
 - [ ] [Big data простым языком](https://www.litres.ru/aleksey-blagirev/big-data-prostym-yazykom/)
 - [ ] [BIG DATA. Вся технология в одной книге](https://www.litres.ru/andreas-vaygend/big-data-vsya-tehnologiya-v-odnoy-knige/)
-- [ ] [Python для детей. Самоучитель по программированию](https://www.ozon.ru/context/detail/id/140025249/)
+- [x] [~~Тестирование Дот Ком, или Пособие по жестокому обращению с багами в интернет-стартапах~~](https://www.ozon.ru/context/detail/id/149612654/)
+- [x] [~~Искусство тестирования программ~~](https://www.ozon.ru/context/detail/id/18319458/)
 
 ### На заметку
 - [ ] [Аналитическая культура](https://www.litres.ru/karl-anderson-11438349/analiticheskaya-kultura-ot-sbora-dannyh-do-biznes-rezultatov/)
