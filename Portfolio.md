@@ -1,4 +1,4 @@
 ---
-layout: portfolio
+layout: page
 title: Портфолио
 ---
