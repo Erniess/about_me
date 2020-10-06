@@ -8,6 +8,13 @@ title: Чеклист
 - [x] [~~ООП и паттерны проектирования в Python. Coursera~~](https://ru.coursera.org/learn/oop-patterns-python)
 - [x] [~~Создание Web-сервисов на Python. Coursera~~](https://ru.coursera.org/learn/python-for-web)
 
+- [ ] [Прикладное программирование на языке Python. Открытое образование](https://openedu.ru/course/urfu/PYAP/)
+- [ ] [Python для извлечения и обработки данных. Открытое образование](https://openedu.ru/course/hse/PYTHON/)
+- [ ] [Web 2.0 программирование на языке Python. Открытое образование](https://openedu.ru/course/spbstu/WEBPYT/)
+- [ ] [Программирование и разработка веб-приложений. Открытое образование](https://openedu.ru/course/ITMOUniversity/PWADEV/)
+- [ ] [Программирование и разработка веб-приложений. Часть 2. Открытое образование](https://openedu.ru/course/ITMOUniversity/PWADEV2/)
+- [ ] [Программирование глубоких нейронных сетей на Python. Открытое образование](https://openedu.ru/course/urfu/PYDNN/)
+
 - [ ] [Python-разработчик. Яндекс Практикум](https://praktikum.yandex.ru/backend-developer/)
 - [ ] [Мидл python-разработчик. Яндекс Практикум](https://praktikum.yandex.ru/middle-python/)
 - [ ] [Инженер по тестированию. Яндекс Практикум](https://praktikum.yandex.ru/qa-engineer/)
