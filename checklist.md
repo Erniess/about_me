@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Чеклист
+title: Чек-лист
 ---
 
 ## Курсы
