@@ -3,3 +3,6 @@
 
 ### Лицензии
 * Open sourced under the under the MIT license - [Hyde](https://github.com/poole/hyde)
+
+#### Идея блога выгодно позаимствована
+[Andrey A.](https://github.com/Drewleks)
