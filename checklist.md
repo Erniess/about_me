@@ -69,3 +69,5 @@ title: Чек-лист
 - [ ] [Shultais](https://shultais.education/courses/python-3)
 - [ ] [Hour of Python Challenges](https://hourofpython.com/)
 - [ ] [Checkio](https://py.checkio.org/)
+- [x] [~~Документация по Jekyll~~](http://prgssr.ru/documentation/01_welcome)
+
