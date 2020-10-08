@@ -4,8 +4,8 @@ title: Портфолио
 ---
 
 <div class="posts">
+  {{ site.pages }}
   {% for post in paginator.posts %}
-    {% if post.layout == "portfolio" %}
       {{ post.layout }}
         <div class="post">
           <h1 class="post-title">
@@ -18,7 +18,6 @@ title: Портфолио
 
           {{ post.content }}
         </div>
-    {% endif %}
   {% endfor %}
 </div>
 
