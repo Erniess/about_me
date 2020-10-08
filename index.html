@@ -6,7 +6,6 @@ title: Записная книжка
 <div class="posts">
   {% for post in paginator.posts %}
     {% if post.layout == "post" %}
-      {{ post.layout }}
         <div class="post">
           <h1 class="post-title">
             <a href="{{ site.baseurl }}{{ post.url }}">
