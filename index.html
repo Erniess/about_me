@@ -6,7 +6,6 @@ title: Записная книжка
 <div class="posts">
   {% for post in paginator.posts %}
     {{ post.layout }}
-    {% if post.layout =! "portfolio" %}
       <div class="post">
         <h1 class="post-title">
           <a href="{{ site.baseurl }}{{ post.url }}">
@@ -18,8 +17,6 @@ title: Записная книжка
 
         {{ post.content }}
       </div>
-    {% else %}
-    {% endif %}
   {% endfor %}
 </div>
 
