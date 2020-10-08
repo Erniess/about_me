@@ -5,9 +5,9 @@ title: Портфолио
 
 <div class="posts">
   paginator
-  {{ site.baseurl+page.url }}
-  {{ paginator }}
-  {{ paginator.posts }}
+  {{ portfolio.paginator }}
+  {{ paginator.portfolio.posts }}
+  {{ paginator.posts.portfolio }}
   {% for post in paginator.posts %}
       {{ post.layout }}
         <div class="post">
