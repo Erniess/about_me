@@ -5,18 +5,20 @@ title: Записная книжка
 
 <div class="posts">
   {% for post in paginator.posts %}
-    {{ post.layout }}
-      <div class="post">
-        <h1 class="post-title">
-          <a href="{{ site.baseurl }}{{ post.url }}">
-            {{ post.title }}
-          </a>
-        </h1>
+    {% if post.layout == "post" %}
+      {{ post.layout }}
+        <div class="post">
+          <h1 class="post-title">
+            <a href="{{ site.baseurl }}{{ post.url }}">
+              {{ post.title }}
+            </a>
+          </h1>
 
-        <span class="post-date">{{ post.date | date_to_string }}</span>
+          <span class="post-date">{{ post.date | date_to_string }}</span>
 
-        {{ post.content }}
-      </div>
+          {{ post.content }}
+        </div>
+    {% endif %}
   {% endfor %}
 </div>
 
