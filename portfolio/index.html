@@ -5,6 +5,7 @@ title: Портфолио
 
 <div class="posts">
   {{ site.pages }}
+  {{ paginator.posts }}
   {% for post in paginator.posts %}
       {{ post.layout }}
         <div class="post">
