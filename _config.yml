@@ -4,6 +4,11 @@ highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
+collections:
+  about_me:
+    permalink: /about_me/:path/
+  portfolio:
+    permalink: /about_me/portfolio/page:num/
 # relative_permalinks: true
 
 # Setup
@@ -11,7 +16,6 @@ title:            Записная книжка
 tagline:          'Чтобы самому не забыть и другим рассказать'
 description:      'Чтобы самому не забыть и другим рассказать'
 paginate:         5
-paginate_path:    "/portfolio/page:num/"
 url:              https://erniess.github.io/
 baseurl:          "/about_me"
 
