@@ -1,5 +1,5 @@
 ---
-layout: portfolio
+layout: post
 title: "Тестовый пост в портфолио!"
 ---
 
