@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Тестовый пост в портфолио!"
-type: projects
+type: project
 ---
 
 Создан тестовый пост в разделе портфолио!
