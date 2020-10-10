@@ -4,10 +4,23 @@ title: Чек-лист
 ---
 
 ## Курсы
+### Coursera
 - [x] [~~Погружение в Python. Coursera~~](https://ru.coursera.org/learn/diving-in-python)
 - [x] [~~ООП и паттерны проектирования в Python. Coursera~~](https://ru.coursera.org/learn/oop-patterns-python)
 - [x] [~~Создание Web-сервисов на Python. Coursera~~](https://ru.coursera.org/learn/python-for-web)
+- [ ] [Python для анализа данных. Coursera](https://ru.coursera.org/learn/python-for-data-science)
+- [ ] [Statistics with Python, University of Michigan](https://www.coursera.org/specializations/statistics-with-python)
+- [ ] [Python for Everybody, University of Michigan](https://www.coursera.org/specializations/python)
 
+### Stepik
+- [x] [~~Введение в Linux. Stepik~~](https://stepik.org/course/73/syllabus)
+- [x] [~~Python: основы и применение. Stepik~~](https://stepik.org/course/512/syllabus)
+- [ ] [Тестирование ПО: подготовка к сертификации ISTQB Foundation. Stepik](https://stepik.org/course/16478/syllabus)
+- [ ] [Введение в тестирование. Women In Tech + TestIT + ПРОСТО. Stepik](https://stepik.org/course/73926/syllabus)
+- [ ] [Алгоритмы: теория и практика. Методы. Stepik](https://stepik.org/course/217/syllabus)
+- [ ] [Нейронные сети и обработка текста. Stepik](https://stepik.org/course/54098/syllabus)
+
+### Открытое образование
 - [ ] [Прикладное программирование на языке Python. Открытое образование](https://openedu.ru/course/urfu/PYAP/)
 - [ ] [Python для извлечения и обработки данных. Открытое образование](https://openedu.ru/course/hse/PYTHON/)
 - [ ] [Web 2.0 программирование на языке Python. Открытое образование](https://openedu.ru/course/spbstu/WEBPYT/)
@@ -15,32 +28,38 @@ title: Чек-лист
 - [ ] [Программирование и разработка веб-приложений. Часть 2. Открытое образование](https://openedu.ru/course/ITMOUniversity/PWADEV2/)
 - [ ] [Программирование глубоких нейронных сетей на Python. Открытое образование](https://openedu.ru/course/urfu/PYDNN/)
 
+### Яндекс
 - [ ] [Python-разработчик. Яндекс Практикум](https://praktikum.yandex.ru/backend-developer/)
 - [ ] [Мидл python-разработчик. Яндекс Практикум](https://praktikum.yandex.ru/middle-python/)
 - [ ] [Инженер по тестированию. Яндекс Практикум](https://praktikum.yandex.ru/qa-engineer/)
+
+### Geekbrains
 - [ ] [Программист Python](https://geekbrains.ru/professions/python_developer)
+
+### Прочее
 - [x] [~~Основы тестирования программного обеспечения. Универсариум~~](https://universarium.org/course/722)
 - [x] [~~Инструменты программиста (GIT)~~](https://www.youtube.com/playlist?list=PLAMm2eUmBSn24JIYXGKqAEWCfN-IT-UMp)
 - [x] [~~Базовый курс по Git~~](https://www.youtube.com/playlist?list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR)
+- [ ] [Алгоритмы на Python 3. Тимофей Хирьянов](https://www.youtube.com/playlist?list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0)
+- [ ] [Практика программирования на Python 3. 2019. Тимофей Хирьянов](https://www.youtube.com/playlist?list=PLRDzFCPr95fLuusPXwvOPgXzBL3ZTzybY)
+- [ ] [Практика программирования на Python 3. 2020. Тимофей Хирьянов](https://www.youtube.com/playlist?list=PLRDzFCPr95fIDJUvFxvzWxg-V9BmZlMMe)
 - [ ] [Django Girls Tutorial](https://tutorial.djangogirls.org/ru/)
 - [ ] [GitHab Learning lab](https://lab.github.com/courses)
 
 ### На заметку
 - [ ] [Курс обучения Гит на русском, Git How To](https://githowto.com/ru)
-- [ ] [Statistics with Python, University of Michigan](https://www.coursera.org/specializations/statistics-with-python)
-- [ ] [Python for Everybody, University of Michigan](https://www.coursera.org/specializations/python)
 
 ---
 
-## Книги 
+## Книги
+- [x] [~~Тестирование Дот Ком, или Пособие по жестокому обращению с багами в интернет-стартапах~~](https://www.ozon.ru/context/detail/id/149612654/)
+- [x] [~~Искусство тестирования программ~~](https://www.ozon.ru/context/detail/id/18319458/)
 - [ ] [Автоматизация рутинных задач](https://www.ozon.ru/context/detail/id/137673590/)
 - [ ] [Изучаем Python](https://www.ozon.ru/context/detail/id/138132785/)
 - [ ] [Много цифр](https://www.ozon.ru/context/detail/id/34806852/)
 - [ ] [Экстремальное программирование](https://www.litres.ru/kent-bek/ekstremalnoe-programmirovanie-razrabotka-cherez-testirovanie/)
 - [ ] [Big data простым языком](https://www.litres.ru/aleksey-blagirev/big-data-prostym-yazykom/)
 - [ ] [BIG DATA. Вся технология в одной книге](https://www.litres.ru/andreas-vaygend/big-data-vsya-tehnologiya-v-odnoy-knige/)
-- [x] [~~Тестирование Дот Ком, или Пособие по жестокому обращению с багами в интернет-стартапах~~](https://www.ozon.ru/context/detail/id/149612654/)
-- [x] [~~Искусство тестирования программ~~](https://www.ozon.ru/context/detail/id/18319458/)
 
 ### На заметку
 - [ ] [Аналитическая культура](https://www.litres.ru/karl-anderson-11438349/analiticheskaya-kultura-ot-sbora-dannyh-do-biznes-rezultatov/)
@@ -62,6 +81,7 @@ title: Чек-лист
 - [x] [SoloLearn](https://www.sololearn.com/)
 
 ### На заметку
+- [x] [~~Документация по Jekyll~~](http://prgssr.ru/documentation/01_welcome)
 - [ ] [Python Challenge](http://www.pythonchallenge.com/)
 - [ ] [Python path pluralsight](https://www.pluralsight.com/)
 - [ ] [Python is Easy](https://pirple.thinkific.com/courses/python-is-easy)
@@ -69,5 +89,4 @@ title: Чек-лист
 - [ ] [Shultais](https://shultais.education/courses/python-3)
 - [ ] [Hour of Python Challenges](https://hourofpython.com/)
 - [ ] [Checkio](https://py.checkio.org/)
-- [x] [~~Документация по Jekyll~~](http://prgssr.ru/documentation/01_welcome)
 
