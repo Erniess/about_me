@@ -41,6 +41,7 @@ title: Чек-лист
 - [x] [~~Инструменты программиста (GIT)~~](https://www.youtube.com/playlist?list=PLAMm2eUmBSn24JIYXGKqAEWCfN-IT-UMp)
 - [x] [~~Базовый курс по Git~~](https://www.youtube.com/playlist?list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR)
 - [ ] [Алгоритмы на Python 3. Тимофей Хирьянов](https://www.youtube.com/playlist?list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0)
+- [ ] [Тестировщик: первая ступень. Learnqa](https://courses.learnqa.ru/teach/control/stream/view/id/236330103)
 - [ ] [Практика программирования на Python 3. 2019. Тимофей Хирьянов](https://www.youtube.com/playlist?list=PLRDzFCPr95fLuusPXwvOPgXzBL3ZTzybY)
 - [ ] [Практика программирования на Python 3. 2020. Тимофей Хирьянов](https://www.youtube.com/playlist?list=PLRDzFCPr95fIDJUvFxvzWxg-V9BmZlMMe)
 - [ ] [Django Girls Tutorial](https://tutorial.djangogirls.org/ru/)
