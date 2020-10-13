@@ -63,6 +63,7 @@ title: Чек-лист
 - [ ] [BIG DATA. Вся технология в одной книге](https://www.litres.ru/andreas-vaygend/big-data-vsya-tehnologiya-v-odnoy-knige/)
 
 ### На заметку
+- [ ] [Bash-скрипты. Habr](https://habr.com/ru/company/ruvds/blog/325522/)
 - [ ] [Аналитическая культура](https://www.litres.ru/karl-anderson-11438349/analiticheskaya-kultura-ot-sbora-dannyh-do-biznes-rezultatov/)
 - [ ] [Думай как математик](https://www.litres.ru/barbara-oakli/dumay-kak-matematik-kak-reshat-lubye-zadachi-bystree-i-effektivnee/)
 - [ ] [Теоретический минимум по Computer Science](https://www.litres.ru/vladston-ferreyra-fi/teoreticheskiy-minimum-po-computer-science-v-34946144/)
