@@ -91,4 +91,6 @@ title: Чек-лист
 - [ ] [Shultais](https://shultais.education/courses/python-3)
 - [ ] [Hour of Python Challenges](https://hourofpython.com/)
 - [ ] [Checkio](https://py.checkio.org/)
+- [ ] [Проверка заголовков багов](http://bugred.ru/)
+- [ ] [Тестирование и качество ПО](https://software-testing.ru/)
 
