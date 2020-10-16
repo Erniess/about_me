@@ -56,6 +56,7 @@ title: Чек-лист
 ## Книги
 - [x] [~~Тестирование Дот Ком, или Пособие по жестокому обращению с багами в интернет-стартапах~~](https://www.ozon.ru/context/detail/id/149612654/)
 - [x] [~~Искусство тестирования программ~~](https://www.ozon.ru/context/detail/id/18319458/)
+- [ ] [Тестирование программного обеспечения: базовый курс. С. С. Куликов](https://careers.epam.by/content/dam/epam/by/book_epam_by/Software_Testing_Basics_2_izdanie.pdf)
 - [ ] [Автоматизация рутинных задач](https://www.ozon.ru/context/detail/id/137673590/)
 - [ ] [Изучаем Python](https://www.ozon.ru/context/detail/id/138132785/)
 - [ ] [Много цифр](https://www.ozon.ru/context/detail/id/34806852/)
