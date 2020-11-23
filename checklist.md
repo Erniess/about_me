@@ -40,6 +40,7 @@ title: Чек-лист
 - [x] [~~Основы тестирования программного обеспечения. Универсариум~~](https://universarium.org/course/722)
 - [x] [~~Инструменты программиста (GIT)~~](https://www.youtube.com/playlist?list=PLAMm2eUmBSn24JIYXGKqAEWCfN-IT-UMp)
 - [x] [~~Базовый курс по Git~~](https://www.youtube.com/playlist?list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR)
+- [x] [~~Git How To~~](https://githowto.com/ru)
 - [ ] [Тестировщик: первая ступень. Learnqa](https://courses.learnqa.ru/teach/control/stream/view/id/236330103)
 - [ ] [Алгоритмы на Python 3. Тимофей Хирьянов](https://www.youtube.com/playlist?list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0)
 - [ ] [Практика программирования на Python 3. 2019. Тимофей Хирьянов](https://www.youtube.com/playlist?list=PLRDzFCPr95fLuusPXwvOPgXzBL3ZTzybY)
