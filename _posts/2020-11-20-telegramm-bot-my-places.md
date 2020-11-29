@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MyPlaces - telegramm bot"
+title: "MyPlaces - telegram bot"
 type: project
 ---
 
