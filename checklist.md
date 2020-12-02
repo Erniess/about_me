@@ -42,6 +42,7 @@ title: Чек-лист
 - [x] [~~Базовый курс по Git~~](https://www.youtube.com/playlist?list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR)
 - [x] [~~Git How To~~](https://githowto.com/ru)
 - [ ] [ROS](http://robocraft.ru/page/robotics/#ROS)
+- [x] [~~SQL Tutorial~~](https://www.w3schools.com/sql)
 - [ ] [Тестировщик: первая ступень. Learnqa](https://courses.learnqa.ru/teach/control/stream/view/id/236330103)
 - [ ] [Алгоритмы на Python 3. Тимофей Хирьянов](https://www.youtube.com/playlist?list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0)
 - [ ] [Практика программирования на Python 3. 2019. Тимофей Хирьянов](https://www.youtube.com/playlist?list=PLRDzFCPr95fLuusPXwvOPgXzBL3ZTzybY)
