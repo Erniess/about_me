@@ -5,33 +5,34 @@ title: Чек-лист
 
 ## Курсы
 ### Coursera
-- [x] [~~Погружение в Python. Coursera~~](https://ru.coursera.org/learn/diving-in-python)
-- [x] [~~ООП и паттерны проектирования в Python. Coursera~~](https://ru.coursera.org/learn/oop-patterns-python)
-- [x] [~~Создание Web-сервисов на Python. Coursera~~](https://ru.coursera.org/learn/python-for-web)
-- [ ] [Python для анализа данных. Coursera](https://ru.coursera.org/learn/python-for-data-science)
+- [x] [~~Погружение в Python~~](https://ru.coursera.org/learn/diving-in-python)
+- [x] [~~ООП и паттерны проектирования в Python~~](https://ru.coursera.org/learn/oop-patterns-python)
+- [x] [~~Создание Web-сервисов на Python~~](https://ru.coursera.org/learn/python-for-web)
+- [ ] [Python для анализа данных](https://ru.coursera.org/learn/python-for-data-science)
 - [ ] [Statistics with Python, University of Michigan](https://www.coursera.org/specializations/statistics-with-python)
 - [ ] [Python for Everybody, University of Michigan](https://www.coursera.org/specializations/python)
 
 ### Stepik
-- [x] [~~Введение в Linux. Stepik~~](https://stepik.org/course/73/syllabus)
-- [x] [~~Python: основы и применение. Stepik~~](https://stepik.org/course/512/syllabus)
-- [ ] [Тестирование ПО: подготовка к сертификации ISTQB Foundation. Stepik](https://stepik.org/course/16478/syllabus)
-- [ ] [Введение в тестирование. Women In Tech + TestIT + ПРОСТО. Stepik](https://stepik.org/course/73926/syllabus)
-- [ ] [Алгоритмы: теория и практика. Методы. Stepik](https://stepik.org/course/217/syllabus)
-- [ ] [Нейронные сети и обработка текста. Stepik](https://stepik.org/course/54098/syllabus)
+- [x] [~~Введение в Linux~~](https://stepik.org/course/73/syllabus)
+- [x] [~~Python: основы и применение~~](https://stepik.org/course/512/syllabus)
+- [ ] [Введение в Robot Operating System](https://stepik.org/course/16478/syllabus)
+- [ ] [Тестирование ПО: подготовка к сертификации ISTQB Foundation](https://stepik.org/course/16478/syllabus)
+- [ ] [Введение в тестирование. Women In Tech + TestIT + ПРОСТО](https://stepik.org/course/73926/syllabus)
+- [ ] [Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/syllabus)
+- [ ] [Нейронные сети и обработка текста](https://stepik.org/course/54098/syllabus)
 
 ### Открытое образование
-- [ ] [Прикладное программирование на языке Python. Открытое образование](https://openedu.ru/course/urfu/PYAP/)
-- [ ] [Python для извлечения и обработки данных. Открытое образование](https://openedu.ru/course/hse/PYTHON/)
-- [ ] [Web 2.0 программирование на языке Python. Открытое образование](https://openedu.ru/course/spbstu/WEBPYT/)
-- [ ] [Программирование и разработка веб-приложений. Открытое образование](https://openedu.ru/course/ITMOUniversity/PWADEV/)
-- [ ] [Программирование и разработка веб-приложений. Часть 2. Открытое образование](https://openedu.ru/course/ITMOUniversity/PWADEV2/)
-- [ ] [Программирование глубоких нейронных сетей на Python. Открытое образование](https://openedu.ru/course/urfu/PYDNN/)
+- [ ] [Прикладное программирование на языке Python](https://openedu.ru/course/urfu/PYAP/)
+- [ ] [Python для извлечения и обработки данных](https://openedu.ru/course/hse/PYTHON/)
+- [ ] [Web 2.0 программирование на языке Python](https://openedu.ru/course/spbstu/WEBPYT/)
+- [ ] [Программирование и разработка веб-приложений](https://openedu.ru/course/ITMOUniversity/PWADEV/)
+- [ ] [Программирование и разработка веб-приложений. Часть 2](https://openedu.ru/course/ITMOUniversity/PWADEV2/)
+- [ ] [Программирование глубоких нейронных сетей на Python](https://openedu.ru/course/urfu/PYDNN/)
 
 ### Яндекс
-- [ ] [Python-разработчик. Яндекс Практикум](https://praktikum.yandex.ru/backend-developer/)
-- [ ] [Мидл python-разработчик. Яндекс Практикум](https://praktikum.yandex.ru/middle-python/)
-- [ ] [Инженер по тестированию. Яндекс Практикум](https://praktikum.yandex.ru/qa-engineer/)
+- [ ] [Python-разработчик](https://praktikum.yandex.ru/backend-developer/)
+- [ ] [Мидл python-разработчик](https://praktikum.yandex.ru/middle-python/)
+- [ ] [Инженер по тестированию](https://praktikum.yandex.ru/qa-engineer/)
 
 ### Geekbrains
 - [ ] [Программист Python](https://geekbrains.ru/professions/python_developer)
@@ -41,6 +42,7 @@ title: Чек-лист
 - [x] [~~Инструменты программиста (GIT)~~](https://www.youtube.com/playlist?list=PLAMm2eUmBSn24JIYXGKqAEWCfN-IT-UMp)
 - [x] [~~Базовый курс по Git~~](https://www.youtube.com/playlist?list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR)
 - [x] [~~Git How To~~](https://githowto.com/ru)
+- [ ] [Питонтьютор](http://pythontutor.ru)
 - [ ] [ROS](http://robocraft.ru/page/robotics/#ROS)
 - [x] [~~SQL Tutorial~~](https://www.w3schools.com/sql)
 - [ ] [Тестировщик: первая ступень. Learnqa](https://courses.learnqa.ru/teach/control/stream/view/id/236330103)
